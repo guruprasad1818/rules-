@@ -1,0 +1,33 @@
+-> Write Python code 
+  
+  ->Script Mode (100%)
+
+     -> using code editor
+
+  -> comand Line / Interactive Mode (Quick checks)
+
+
+      -> Directly execuiting code on python Interpreter using 
+         CLI (comand line interface)
+
+  -> Syntex - Rules and guidlines
+
+  -> print(hello world) -- issue
+  -> print(9) -- no issue
+
+-> 9 is literal number, it doesn't need to be defined before hand
+->hello world is a text,which needs to be represented in single or double quotes
+        
+        -> print (hello world) wrong Syntex
+        -> print ('hello worl') correct Syntex
+
+-> Like English has 26 alphabates, whih needs is basis for forming words and sentences
+-> python has same concept,which are called as key words
+  
+   ->keywords + Syntex = program / app
+
+-> import is a keywords --> imports module --> module is a.py file
+  
+
+
+  
