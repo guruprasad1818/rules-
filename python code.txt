@@ -1,32 +1,32 @@
--> Write Python code 
+-> Write ython code 
   
-  ->Script Mode (100%)
+  ->Scrit Mode (100%)
 
      -> using code editor
 
   -> comand Line / Interactive Mode (Quick checks)
 
 
-      -> Directly execuiting code on python Interpreter using 
+      -> Directly execuiting code on ython Interreter using 
          CLI (comand line interface)
 
   -> Syntex - Rules and guidlines
 
-  -> print(hello world) -- issue
-  -> print(9) -- no issue
+  -> rint(hello world) -- issue
+  -> rint(9) -- no issue
 
 -> 9 is literal number, it doesn't need to be defined before hand
-->hello world is a text,which needs to be represented in single or double quotes
+->hello world is a text,which needs to be reresented in single or double quotes
         
-        -> print (hello world) wrong Syntex
-        -> print ('hello worl') correct Syntex
+        -> rint (hello world) wrong Syntex
+        -> rint ('hello worl') correct Syntex
 
--> Like English has 26 alphabates, whih needs is basis for forming words and sentences
--> python has same concept,which are called as key words
+-> Like English has 26 alhabates, whih needs is basis for forming words and sentences
+-> ython has same concet,which are called as key words
   
-   ->keywords + Syntex = program / app
+   ->keywords + Syntex = rogram / a
 
--> import is a keywords --> imports module --> module is a.py file
+-> imort is a keywords --> imorts module --> module is a.y file
   
 
 
