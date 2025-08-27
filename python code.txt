@@ -1,4 +1,4 @@
--> Write ython code 
+-> Write pthon code 
   
   ->Scrit Mode (100%)
 
