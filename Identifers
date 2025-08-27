@@ -1,0 +1,41 @@
+Identifiers 
+
+   -> Identifiers
+
+      -> Variables
+      -> functions
+      -> classes
+      -> objects
+      -> methods
+      -> modules
+      -> etc 
+
+      -> Rules for naming Identifiers
+
+        -> can contain
+           
+            ->letters (a-z,A-Z)
+            ->digits (0-9)
+            ->underscore (-) 
+
+        -> Must start with
+
+             -> A letter (a-z,A-Z)
+             -> underscore (_) 
+
+        -> Note: Cannot start with a digit 
+        -> Note: Cannot be key words
+        -> Note: Case Sensitive(name, Name, NAME ) (A,a)
+        -> Note: Always name the identifiers appropriately
+
+        
+
+        
+            
+          
+               
+              
+
+
+
+
